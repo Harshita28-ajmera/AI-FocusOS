@@ -67,16 +67,3 @@ AI-FocusOS is a smart system that:
 • Gamified learning system  
 
 ---
-
-## 📎 Live Demo
-
-Form Link:  
-👉 https://docs.google.com/forms/d/e/1FAIpQLSdCtrNcH8SOrzEnBVEsWHkvkWelYn3tZvGc9_KAVfcV_jc_Ow/viewform
-
----
-
-## 👩‍💻 Created By
-
-**Harshita Ajmera**  
-AI Innovation Challenge 2026  
-GitHub: https://github.com/Harshita28-ajmera
